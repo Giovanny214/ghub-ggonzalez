@@ -1,7 +1,7 @@
 var job = ["Mechanic","Superhero","Programmer","Detective"];
 var city = ["Austin","Dallas","NYC","LA"];
 var spouse = ["Andrea","Kayla","Mia","Kimberly"];
-var numKids =[1,,3,2,0];
+var numKids =[1,3,2,0];
 var xx = Math.floor(Math.random() * 4)
 
 function fortune(job,city,spouse,numKids){
